@@ -5,7 +5,7 @@ const c: IConfig = {
   gitRepoUrl: 'https://github.com/ebolahub/nav',
 
   // 部署分支
-  branch: 'main',
+  branch: 'gp-pages',
 
   // 路由是否Hash模式, 如果是部署在github pages 务必设为 true
   hashMode: true,
